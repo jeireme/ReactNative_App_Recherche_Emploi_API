@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "web": {
+      "bundler": "metro"
+    },
+    "name": "JavaScript_Mastery_Jobs",
+    "slug": "JavaScript_Mastery_Jobs"
+  }
+}
